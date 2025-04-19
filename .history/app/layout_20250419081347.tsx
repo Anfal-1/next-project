@@ -1,9 +1,9 @@
 import type React from 'react'
 import '@/app/globals.css'
-import { ThemeProvider } from './components/theme-provider'
-import { ScrollToTop } from './components/scroll-to-top'
-import { Navbar } from './components/navbar'
-import { Footer } from './components/footer'
+import { ThemeProvider } from '@/components/theme-provider'
+import { ScrollToTop } from '@/components/scroll-to-top'
+import { Navbar } from '@/components/navbar'
+import { Footer } from '@/components/footer'
 import localFont from 'next/font/local'
 
 // Use local font instead of Google Fonts

@@ -5,7 +5,7 @@ import {
   AccordionContent,
   AccordionItem,
   AccordionTrigger,
-} from './components/ui/accordion'
+} from '@/components/ui/accordion'
 import { ExternalLink, MapPin, Leaf, BarChart3, Search } from 'lucide-react'
 
 export default function Home() {
